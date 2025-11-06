@@ -17,7 +17,7 @@ const apiPrefix = '/api';
 // Store data in-memory, not suited for production use!
 const db = {
     test: {
-      user: 'test',
+      user: 'Alexis',
       currency: '$',
       description: `Test account`,
       balance: 75,
